@@ -1,4 +1,4 @@
-# 『超かぐや姫 ! 』公式 – 【歌ってみた】竹取オーバーナイトセンセーション – HoneyWorks / covered by かぐや(cv.夏吉ゆうこ) from 超かぐや姫！
+# JubyPhonic – Taketori Overnight Sensation (English Cover)【Kuraiinu + JubyPhonic】竹取オーバーナイトセンセーション
 
 > **歌詞登録ステータス：同期歌詞あり**
 
