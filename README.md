@@ -1,78 +1,59 @@
-# JubyPhonic – Taketori Overnight Sensation (English Cover)【Kuraiinu + JubyPhonic】竹取オーバーナイトセンセーション
+# HoneyWorks – 竹取オーバーナイトセンセーション
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:32.41] So I guess I'm in love now
-[00:34.62] Skipping all of the "why" "when" or even "how"
-[00:36.90] A love like this will live a thousands years
-[00:39.53] Partying all up in my heart... but well, that's not poetic
-[01:08.53] 
-[00:41.95] Oh me oh my, just thinking of all the boys who I turned into toys
-[00:44.60] So what, the emperor now? Hurry up and tell me the reason he is calling for me
-[00:49.12] Unless he came just to bow
-[01:02.12] 
-[00:51.92] What can I say? It's like I've always wanted you
-[00:56.45] For making such a gem, let's give a hand up to the moon
-[01:00.52] Breaking through the destiny that keeps us West and East
-[01:03.86] You know we can't sleep
-[01:05.51] Don't have to dream of crossing Hourai's boundary line
-[01:08.59] You know I'm right
-[01:17.59] 
-[01:10.65] Perfect you facing from the moon, it's too good to be true
-[01:15.58] Selfish as she tries to be, I guess I'll love her sel-fish-ly
-[01:46.08] 
-[01:20.19] Hey!
-[01:22.19] 
-[01:39.55] So I guess I'm in love now
-[01:42.04] Skipping all of the "why" "when" or even "how"
-[01:44.34] You've gotta be the hottest, coolest, nicest guy I've ever met
-[01:46.84] Oh man, think of all the smart things I bet he does!
-[02:12.84] 
-[01:48.94] And you can bet I'm drinking that potion you gave, oh yes I'll never leave
-[01:51.78] I'll live as long as you breathe
-[01:53.84] You're the only thing I desire, now you share the fire
-[01:56.21] Tell me, so what would you like?
-[02:12.21] 
-[01:59.07] What can I say? It's just so hard to do it right
-[02:03.82] If you would have me, I could be your ever loving wife
-[02:30.82] 
-[02:07.62] Breaking through the deities and row the seven seas
-[02:10.95] You know we can't sleep
-[02:12.86] We're tearing up and down this old and boring rhyme
-[02:15.67] It's time to fight
-[02:24.67] 
-[02:17.99] Perfect me turning from those beams shining on me every night
-[02:22.88] Selfish as I know I am, can you just try to un-der-stand?
-[02:51.38] 
-[02:27.32] Hey!
-[02:29.32] 
-[02:37.22] Wanna throw this place away and wanna be with you instead
-[02:41.68] And wanna throw this place away and wanna be with-
-[02:45.58] "Wait wait"
-[02:46.30] "Hm?"
-[02:46.80] Wanna stay right here with you and wanna be up there with them
-[02:51.36] And wanna stay right here with you
-[02:53.53] But don't know how we'll be together then
-[03:14.03] 
-[02:58.36] I know I'm searching for freedom when it's too late
-[03:00.32] To spout any wings, foolishly dreaming
-[03:03.25] I'm like a trapped bird jumping around from cage to cage
-[03:06.05] Who never got to fly
-[03:16.05] 
-[03:07.68] Know no matter what we do, no matter where into stars we may run
-[03:10.87] We have to choose one
-[03:12.76] Now so in love with you, body and soul combined
-[03:15.57] Know deep down that I'm
-[03:17.96] Se-ri-ous-ly...
-[03:25.46] 
-[03:20.22] Breaking destiny from West and East
-[03:22.91] You know we can't sleep
-[03:24.75] Don't have to dream of crossing Hourai's boundary line
-[03:27.84] You know I'm right
-[03:29.98] Perfect you facing from the moon, it's too good to be true
-[03:34.85] Noble princess walking taller, royal woman like no other
-[03:39.49] Selfish as she tries to be, I guess I'll love her sel-fish-ly
-[04:09.99] 
-[03:44.12] Hey!
+```
+兎にも角にも
+恋に落ちたわけであります
+千年先覚めやらん
+詠え踊れや心模様
+やれやれ数多の人身をいたづらに
+こんな私めが
+帝(みかど)に仕え逢うその体裁(りゆう) は
+必需品ですの
+尚でもっては更の事
+月のまにまにお手を拝借
+其の侭、運命子午線突破眠れない
+此の侭、蓬莱の境界線切って
+問答無用
+
+月に背を向けた弱竹(なよたけ)の
+我が侭姫君嗚呼愛ししし
+
+兎にも角にも
+恋に落ちたわけであります
+国色天香才徳兼備大盤振舞四元素
+今更不死の薬と富士の煙
+くゆる私が
+君が為の時想イ想ワレ何を囁こう
+率して直に申します
+お嫁に一ついかがですです？
+
+其の侭、天地環状線突破眠れない
+
+此の侭、退屈な自由より騒乱へ徒来
+月に背を向けた弱竹(なよたけ)の
+我が侭な私許してねねね
+
+あっちはポイして
+こっちは欲しくて
+あっちはポイして
+こっちは｢トントン｣「ん？」
+あっちも欲しくて
+こっちも欲 ・し・い・の
+あっちも欲しくてhrhrhrhrr...
+知ってる自由を探す事なんて今更
+馬鹿げてる
+隣のカゴに飛び移った
+鳥みたいじゃない
+知ってるどうやっても何処にでもあるような
+二律背反
+つまり全身全霊の今は嘘なんかじゃ
+ないから
+運命子午線突破眠れない
+此の侭、蓬莱の境界線切って問答無用
+月に背を向けた弱竹(なよたけ)の
+威風に堂々
+東方に不敗
+我が侭姫君嗚呼愛ししし
 ```
