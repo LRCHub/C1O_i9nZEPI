@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】竹取オーバーナイトセンセーション – HoneyWorks / covered by かぐや(cv.夏吉ゆうこ) from 超かぐや姫！",
+  "base_artist": "『超かぐや姫 ! 』公式",
+  "createdAt": "2025-12-02T03:54:55.181277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Taketori Overnight Sensation (English Cover)【Kuraiinu + JubyPhonic】竹取オーバーナイトセンセーション",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/01_Taketori_Overnight_Sensation_(English_Cover)【Kuraiinu_+_JubyPhonic】竹取オーバーナイトセンセー_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "竹取オーバーナイトセンセーション",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/02_竹取オーバーナイトセンセーション_HoneyWorks.txt"
+    }
+  ]
+}
